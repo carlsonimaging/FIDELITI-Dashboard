@@ -25,7 +25,7 @@ In the FIDELITI Dashboard, these neuroimaging metrics are in turn grouped within
 
 ## Downloads
 
-Download the latest installer (.dmg) from the Releases section of this repository.
+Download the latest installer (.dmg) from the Releases section of this repository on the right side.
 
 ---
 
