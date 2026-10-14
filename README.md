@@ -59,8 +59,9 @@ User documentation and tutorials are available through the [FIDELITI Help websit
 
 1. Download the latest `.dmg` from Releases.
 2. Open the installer.
-3. Double click on install.command
-4. FIDELITI will be installed into Applications.
+3. Double click on Install.command
+4. FIDELITI will be installed into Applications
+5. Install other dependent software packages [Dependencies](https://carlsonimaging.github.io/FIDELITI_help/docs-page.html#section-2)
 5. Launch the application.
 
 ---
