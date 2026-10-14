@@ -1,12 +1,12 @@
 # FIDELITI Dashboard
 
-The FIDELITI Dashboard (Fingerprinting Individual Differences in Lesion Impact Through Imaging)  provides a framework for visualizing personalized neuroimaging features in a single participant in relation to their typically-developing peers.
+The FIDELITI Dashboard (Fingerprinting Individual Differences in Lesion Impact Through Imaging)  provides a framework for visualizing personalized neuroimaging features in a single pediatric participant in relation to their typically-developing peers via normative modeling.
 
 ---
 
 ## Overview
 
-FIDELITI Dashboard provides a unified interface for managing
+The FIDELITI Dashboard provides a unified interface for managing
 neuroimaging workflows, quality control, and analysis pipelines.
 
 ---
@@ -15,9 +15,9 @@ neuroimaging workflows, quality control, and analysis pipelines.
 
 Magnetic resonance (MR) imaging provides a unique opportunity to measure brain characteristics in many different ways.
 
-- Cortical morphometry captures structural information such as the thickness of the grey matter ribbon (cortical thickness) in atlas-based regions of interest or volumes of grey matter structures.
-- Functional connectivity captures how fluctuations in blood oxygenation levels vary over time (at rest) and how synchronous these temporal patterns can be in spatially separate but related regions of the brain, inferring that those areas are functionally connected.
-- Diffusion imaging can capture information about the underlying microstructure of white matter, potentially informing us on how well these bundles transmit information between brain areas.
+- **Cortical morphometry** captures structural information such as the thickness of the grey matter ribbon (cortical thickness) in atlas-based regions of interest or volumes of grey matter structures.
+- **Functional connectivity** captures how fluctuations in blood oxygenation levels vary over time (at rest) and how synchronous these temporal patterns can be in spatially separate but related regions of the brain, inferring that those areas are functionally connected.
+- **Diffusion imaging** can capture information about the underlying microstructure of white matter, potentially informing us on how well these bundles transmit information between brain areas.
 
 In the FIDELITI Dashboard, these neuroimaging metrics are in turn grouped within broader functional domains of interest. These domains include sensorimotor, language, vision, attention, memory, and audition. The result is that over 150 neuroimaging features are available for viewing in the dashboard.
 
@@ -31,7 +31,7 @@ Download the latest installer (.dmg) from the Releases section of this repositor
 
 ## Documentation
 
-User documentation and tutorials are available through the FIDELITI Help website.
+User documentation and tutorials are available through the [FIDELITI Help website.](https://carlsonimaging.github.io/FIDELITI_help/index.html)
 
 ---
 
