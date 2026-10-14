@@ -1,0 +1,162 @@
+========================================================
+FIDELITI Dashboard Software License Agreement
+Version 1.0
+========================================================
+ 
+Copyright (c) 2026
+ 
+All rights reserved.
+ 
+--------------------------------------------------------
+1. DEFINITIONS
+--------------------------------------------------------
+ 
+"Software" refers to FIDELITI Dashboard, including all
+associated source code, executable code, scripts,
+configuration files, documentation, graphical assets,
+and related materials distributed by the authors.
+ 
+--------------------------------------------------------
+2. LICENSE GRANT
+--------------------------------------------------------
+ 
+Subject to the terms of this License Agreement, permission
+is granted to install and use the Software for:
+ 
+- Academic research
+- Educational purposes
+- Clinical research activities
+- Internal institutional use
+ 
+This license is non-exclusive, non-transferable, and
+revocable.
+ 
+--------------------------------------------------------
+3. RESTRICTIONS
+--------------------------------------------------------
+ 
+You may not:
+ 
+- Sell, sublicense, or redistribute the Software for
+commercial gain without written permission from the
+copyright holder.
+ 
+- Remove or modify copyright notices.
+ 
+- Misrepresent the Software as your own work.
+ 
+- Use the Software for unlawful purposes.
+ 
+--------------------------------------------------------
+4. MODIFICATIONS
+--------------------------------------------------------
+ 
+Users may modify the Software for their own internal
+research or educational purposes.
+ 
+Modified versions must:
+ 
+- Clearly identify the modifications made.
+- Retain this license agreement.
+- Retain all copyright notices.
+ 
+Redistribution of modified versions requires written
+permission from the copyright holder.
+ 
+--------------------------------------------------------
+5. THIRD-PARTY SOFTWARE
+--------------------------------------------------------
+ 
+FIDELITI Dashboard may include, interface with, or depend
+upon third-party software packages including, but not
+limited to:
+ 
+- CONN Toolbox
+- CAT12
+- MATLAB Runtime
+- MRtrix3
+- FSL
+ 
+Each third-party component remains subject to its own
+license agreement and terms of use.
+ 
+Users are responsible for complying with all applicable
+third-party licenses.
+ 
+Nothing in this license modifies or supersedes the licenses
+of third-party software.
+ 
+--------------------------------------------------------
+6. RESEARCH USE DISCLAIMER
+--------------------------------------------------------
+ 
+The Software is intended to support research activities.
+ 
+The Software is not intended to diagnose, treat, cure,
+or prevent any disease.
+ 
+Unless explicitly stated otherwise, the Software has not
+been reviewed, approved, or certified by any regulatory
+authority for clinical decision-making.
+ 
+--------------------------------------------------------
+7. NO WARRANTY
+--------------------------------------------------------
+ 
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY
+KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO:
+ 
+- MERCHANTABILITY
+- FITNESS FOR A PARTICULAR PURPOSE
+- NON-INFRINGEMENT
+- ACCURACY OF RESULTS
+ 
+THE ENTIRE RISK ARISING OUT OF THE USE OF THE SOFTWARE
+REMAINS WITH THE USER.
+ 
+--------------------------------------------------------
+8. LIMITATION OF LIABILITY
+--------------------------------------------------------
+ 
+IN NO EVENT SHALL THE AUTHORS, CONTRIBUTORS, AFFILIATED
+INSTITUTIONS, OR DISTRIBUTORS BE LIABLE FOR ANY DAMAGES,
+INCLUDING BUT NOT LIMITED TO:
+ 
+- DATA LOSS
+- INTERRUPTION OF RESEARCH
+- LOSS OF PROFITS
+- INDIRECT DAMAGES
+- CONSEQUENTIAL DAMAGES
+ 
+ARISING FROM THE USE OR INABILITY TO USE THE SOFTWARE.
+ 
+--------------------------------------------------------
+9. TERMINATION
+--------------------------------------------------------
+ 
+This license automatically terminates if the user fails
+to comply with the terms of this agreement.
+ 
+Upon termination, all copies of the Software must be
+destroyed.
+ 
+--------------------------------------------------------
+10. CONTACT
+--------------------------------------------------------
+ 
+Questions regarding licensing, redistribution, or
+commercial use should be directed to:
+ 
+fidelitidashboard@gmail.com
+ 
+--------------------------------------------------------
+11. ACCEPTANCE
+--------------------------------------------------------
+ 
+By installing, copying, or using FIDELITI Dashboard,
+you acknowledge that you have read, understood, and
+agree to be bound by this License Agreement.
+ 
+========================================================
+End of License Agreement
+========================================================
